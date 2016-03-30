@@ -1,0 +1,17 @@
+# Release directory
+build/Release
+
+# Dependency directory
+node_modules
+
+# Bower dependency directory
+bower_components
+
+# Mac Specific
+.DS_Store
+
+# Typings
+typings
+
+# Application Specific
+app/**/*.css
